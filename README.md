@@ -1,3 +1,5 @@
+https://ai.studio/apps/c2b167dc-6dcf-44ff-874f-0092c338ee36
+
 # Global Time Converter
 
 A polished, production-ready web application for converting time between any two locations worldwide.
