@@ -1,0 +1,5 @@
+{
+  "name": "Global Time Converter",
+  "description": "Easily convert time between any two cities or countries with real-time updates and day/night visualization.",
+  "requestFramePermissions": []
+}
